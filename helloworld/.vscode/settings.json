@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        ".cuf": "fortran 90",
+        "*.cuf": "fortran-modern",
+        "string": "cpp",
+        "ostream": "cpp"
+    }
+}
