@@ -10,7 +10,7 @@ def check_folder(directory):
                 print("所在位置:", file_path)
 
 # 指定要检查的文件夹路径
-folder_path = "/mnt/d/新年工作/0629五棵松/测线4"
+folder_path = "/mnt/d/willcel/0629五棵松/测线4"
 
 # 调用函数检查文件夹
 check_folder(folder_path)

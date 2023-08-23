@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <string>
+#include <string.h>
 #include <ctype.h>
 #include <climits>
 #include <unordered_map>
